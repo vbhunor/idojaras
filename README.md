@@ -3,13 +3,13 @@
 
 
 markdown
-# 🌦️ Időjárás Lekérdező Alkalmazás Dokumentáció
+#  Időjárás Lekérdező Alkalmazás Dokumentáció
 
 Ez a dokumentáció egy Pythonban írt, grafikus felhasználói felülettel (GUI) rendelkező időjárás-alkalmazást mutat be, amely az OpenWeatherMap API-t használja valós idejű időjárásadatok lekérdezésére. Az adatok megjelenítéséhez a `tkinter` könyvtárat alkalmazza, és a magyar nyelvű válaszokat kezeli.
 
 ---
 
-## 📚 Követelmények
+##  Követelmények
 
 Az alkalmazás működéséhez az alábbi csomagok szükségesek:
 
@@ -21,7 +21,7 @@ Az alkalmazás működéséhez az alábbi csomagok szükségesek:
 
 ---
 
-## 🌐 API Beállítás
+## API Beállítás
 
 - **API Szolgáltató:** OpenWeatherMap
 - **Alap URL:** `https://api.openweathermap.org/data/2.5/weather`
